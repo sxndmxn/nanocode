@@ -1,5 +1,8 @@
 # nanocode
 
+This repository is a personal copy of [1rgs/nanocode](https://github.com/1rgs/nanocode), maintained as a GitHub fork.
+The documentation below describes the original project.
+
 Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
 Built using Claude Code, then used to build itself.
